@@ -1,0 +1,122 @@
+{
+  "attack_group": {
+    "description": "مجموعة صور الهجوم - يتم تنفيذها بالترتيب",
+    "images": [
+      {
+        "name": "to-tower.png",
+        "order": 1,
+        "description": "الانتقال إلى البرج"
+      },
+      {
+        "name": "attack-tower.png",
+        "order": 2,
+        "description": "مهاجمة البرج"
+      },
+      {
+        "name": "attack-agree.png",
+        "order": 3,
+        "description": "الموافقة على الهجوم"
+      },
+      {
+        "name": "present.png",
+        "order": 4,
+        "description": "الهدية"
+      },
+      {
+        "name": "attack.png",
+        "order": 5,
+        "description": "تأكيد الهجوم"
+      },
+      {
+        "name": "horse.png",
+        "order": 6,
+        "description": "اختيار الحصان"
+      },
+      {
+        "name": "horse-yes.png",
+        "order": 7,
+        "description": "تأكيد الحصان"
+      }
+    ]
+  },
+  "gifts_group": {
+    "description": "مجموعة صور الهدايا - تظهر أحياناً بعد الهجوم",
+    "images": [
+      {
+        "name": "collect.png",
+        "description": "جمع الهدية",
+        "optional": true
+      }
+    ]
+  },
+  "send_troops_group": {
+    "description": "مجموعة صور إرسال الجنود إلى بيرموند",
+    "images": [
+      {
+        "name": "bermond-kingdom.png",
+        "order": 1,
+        "description": "اختيار مملكة بيرموند"
+      },
+      {
+        "name": "send-troops.png",
+        "order": 2,
+        "description": "إرسال الجنود"
+      },
+      {
+        "name": "next.png",
+        "order": 3,
+        "description": "التالي"
+      },
+      {
+        "name": "solders.png",
+        "order": 4,
+        "description": "اختيار الجنود"
+      },
+      {
+        "name": "select-all.png",
+        "order": 5,
+        "description": "اختيار الكل"
+      },
+      {
+        "name": "selected-yes.png",
+        "order": 6,
+        "description": "تأكيد الاختيار"
+      },
+      {
+        "name": "skip.png",
+        "order": 7,
+        "description": "تخطي"
+      },
+      {
+        "name": "watch-this.png",
+        "order": 8,
+        "description": "مشاهدة هذا - يتطلب نقر مزدوج"
+      },
+      {
+        "name": "click-twice.png",
+        "order": 9,
+        "description": "النقر مرتين"
+      },
+      {
+        "name": "send-exit.png",
+        "order": 10,
+        "description": "إرسال والخروج"
+      },
+      {
+        "name": "return-to-camp-map.png",
+        "order": 11,
+        "description": "العودة إلى خريطة المعسكر"
+      }
+    ]
+  },
+  "alert_group": {
+    "description": "مجموعة صور التحذيرات",
+    "images": [
+      {
+        "name": "zarwa.png",
+        "description": "صورة الذروة - تحذير عاجل",
+        "critical": true
+      }
+    ]
+  }
+}
