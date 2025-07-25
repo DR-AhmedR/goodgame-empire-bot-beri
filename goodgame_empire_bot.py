@@ -1,8 +1,5 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
 """
 GoodGame Empire Bot - بوت مملكة بيرموند
-بوت متقدم للعبة GoodGame Empire مع نظام مطابقة الصور والتحكم الذكي
 المطور: Ahmed.R
 """
 
