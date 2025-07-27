@@ -1,7 +1,7 @@
 ## GoodGame Empire Bot Beri  
 ## Authors  
 - [@Ahmed.R](https://github.com/DR-AhmedR)  
-
+- 📺 **Video Tutorial:** [Watch on YouTube](https://www.youtube.com/watch?v=6vSZL5RJcVg)
 ## FAQ  
 
 #### عن البوت ؟  
@@ -39,6 +39,6 @@
 ## Demo  
 **Demo**  
 حمل وشغل البوت وقريبا هيبقا انجليزي هيبقي للعرب والاجانب  
-**Download and run the bot. Soon it will support English too — for both Arabs and foreigners.**  
+**Download and run the bot. Soon it will support English too — for both Arabs and foreigners.**  **and the bot support english and arabic**
 
-📺 **Video Tutorial:** [Watch on YouTube](https://www.youtube.com/watch?v=6vSZL5RJcVg)
+
