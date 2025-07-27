@@ -842,7 +842,7 @@ class GoodGameEmpireBot:
         groups_info = {
             'attack': ('⚔️ Attack group', 'Executed in order with repetition according to the number of leaders'),
             'gifts': ('🎁 Gift Set', 'Sometimes appears after an attack'),
-            'send_troops': ('👥 Group ‘Send Soldiers’, 'Send Soldiers to the Kingdom of Bermond'),
+            'send_troops': ('👥 Group Send Soldiers', 'Send Soldiers to the Kingdom of Bermond'),
             'alerts': ('🚨 Warning group', 'Monitor warnings and exit buttons')
         }
         
